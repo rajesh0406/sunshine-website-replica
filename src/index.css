@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  margin: 0;
+  box-sizing:border-box;
+
+  
+}
+
+/* softred:"#fe7867",
+        yellow:"#fad400",
+        darkcyan:"#25564b",
+        darkblue:"#25564b",
+        moderatecyan:"#458c7e",
+        verydarkgrayblue:"#5a636c",
+        darkgrayblue:"#818498",
+        grayblue:"#a7abae", 
+        white:"#ffffff" */
